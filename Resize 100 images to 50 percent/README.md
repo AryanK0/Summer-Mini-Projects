@@ -1,3 +1,17 @@
-# Resize 100 images to 50%
+# Resize 100 images to 50 percent
 
-Automatically resizes a large batch of images to half their original resolution using OpenCV. Great for dataset optimization.
+A high-throughput script that batch-resizes images in a specified directory by a precise scaling factor to optimize storage and processing.
+
+This project is part of a growing collection of summer mini-projects designed to solve specific programmatic problems, automate workflows, and explore data science and computer vision techniques.
+
+## Overview
+- **Technology Stack:** Python, OpenCV (cv2)
+- **Primary Use Case:** Used to normalize dataset resolutions and reduce memory footprint prior to training deep learning models.
+
+## Features
+- Modular and easily readable codebase.
+- Designed to be easily integrated into larger pipelines or applications.
+- Standalone execution with minimal dependencies.
+
+## Getting Started
+Ensure you have the required dependencies installed (e.g., via `pip`). Run the main script or open the Jupyter notebook to see the implementation in action.
