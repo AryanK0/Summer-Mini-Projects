@@ -34,3 +34,4 @@ Each mini-project is self-contained within its own directory and serves as a fou
 - **[UCI Dataset EDA](./UCI%20Dataset%20EDA)**
 - **[Video to Audio Conversion](./Video%20to%20Audio%20Conversion)**
 - **[Web crawler (Email Scraper)](./Web%20crawler%20(Email%20Scraper))**
+
