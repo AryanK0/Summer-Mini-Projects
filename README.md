@@ -2,7 +2,7 @@
 
 A continuously expanding repository of mini-projects and utility scripts developed over the summer. This collection explores various domains of software development, including Data Science, Computer Vision, Natural Language Processing (NLP), Web Scraping, and basic automation.
 
-Each project is self-contained within its own directory and serves as a building block for more complex applications.
+Each mini-project is self-contained within its own directory and serves as a foundational building block for more complex software applications.
 
 ## Technical Domains Explored
 - **Computer Vision & Image Processing:** Using OpenCV to manipulate images and video streams.
