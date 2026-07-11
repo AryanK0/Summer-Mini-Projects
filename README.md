@@ -6,6 +6,7 @@ It covers a variety of topics, including Python, Pandas, OpenCV, OCR, Web Scrapi
 Assignments and standard challenge questions were deliberately omitted to focus purely on project work.
 
 ## Projects Included
+- Advanced OCR Notebook
 - Audio to Text
 - ComboFinder
 - Convert 100 images to Grey Scale
@@ -16,7 +17,6 @@ Assignments and standard challenge questions were deliberately omitted to focus 
 - Image to Text (OCR)
 - Image to Text to Audio
 - Marks Adding
-- OCR
 - PDF Splitter
 - Password Management System
 - Plagiarism Checker
