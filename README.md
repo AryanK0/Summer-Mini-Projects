@@ -1,1 +1,31 @@
-# TSS 2025 Summer Mini Projects\n\nThis repository contains all the valid Mini Projects completed during the Thapar Summer School (TSS) 2025.\nIt covers a variety of topics, including Python, Pandas, OpenCV, OCR, Web Scraping, and basic Machine Learning algorithms.\n\nAssignments and standard challenge questions were deliberately omitted to focus purely on project work.\n\n## Projects Included\n- Mini Project-03 Subset Selection Problem\n- Mini Project-04 ComboFinder\n- Mini Project-05 Text File Conversion\n- Mini Project-07 Marks Adding\n- Mini Project-09 UCI Dataset EDA\n- Mini Project-10 Image to Text to Audio\n- Mini Project-11 Web crawler (Email Scraper)\n- Mini Project-12 Audio to Text\n- Mini Project-13 PDF Splitter\n- Mini Project-15 Plagiarism Checker\n- Mini Project-16 QR Code Generator\n- Mini Project-17 Hangman Game\n- Mini Project-18 Google Image Downloader\n- Mini Project-19 Image to Text (OCR)\n- Mini Project-20 Tweets Search Download\n- Mini Project-21 Video to Audio Conversion\n- Mini Project-22 Cosine Similarity\n- Mini Project-23 Convert 100 images to Grey Scale\n- Mini Project-24 Resize 100 images to 50 percent\n- Mini Project-25 Convert Colored Video to Grey Scale\n- Mini Project-26 Resize Colored Video to 50 percent\n
+# TSS 2025 Summer Mini Projects
+
+This repository contains all the valid Mini Projects completed during the Thapar Summer School (TSS) 2025, as well as a few other small side projects.
+It covers a variety of topics, including Python, Pandas, OpenCV, OCR, Web Scraping, and basic Machine Learning algorithms.
+
+Assignments and standard challenge questions were deliberately omitted to focus purely on project work.
+
+## Projects Included
+- Audio to Text
+- ComboFinder
+- Convert 100 images to Grey Scale
+- Convert Colored Video to Grey Scale
+- Cosine Similarity
+- Google Image Downloader
+- Hangman Game
+- Image to Text (OCR)
+- Image to Text to Audio
+- Marks Adding
+- OCR
+- PDF Splitter
+- Password Management System
+- Plagiarism Checker
+- QR Code Generator
+- Resize 100 images to 50 percent
+- Resize Colored Video to 50 percent
+- Subset Selection Problem
+- Text File Conversion
+- Tweets Search Download
+- UCI Dataset EDA
+- Video to Audio Conversion
+- Web crawler (Email Scraper)
